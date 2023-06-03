@@ -62,13 +62,11 @@ Within that file write the program for up and down counter.
 After that run the program and give the clock pulse value as 50 in timing diagram and run the program.
 
 ### PROGRAM 
-/*
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by:Preethi.A.A
 RegisterNumber:212222110035
 ```
-*/
 ### UP COUNTER:
 ```
 module upcounter(clk,A);
@@ -109,11 +107,11 @@ endmodule
 ### TIMING DIGRAMS FOR COUNTER  
 ### UP COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/ad48d354-b4b6-4fbe-9b91-2eaa980e054d)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/b7ec884c-af2d-42e5-bd06-64d5d582bbbf)
 
 ### DOWN COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/853f5e1e-23c4-402d-93b3-990dca420cb8)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/4baf7792-c9e9-4c2a-8520-d0aa87c6f429)
 
 ### TRUTH TABLE 
 ### UP COUNTER:
