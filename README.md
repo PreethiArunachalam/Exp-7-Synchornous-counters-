@@ -98,29 +98,29 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 ### UP COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/c41ca1ad-c3be-4c81-aa2d-a6ee998ab0d3)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/411b75fc-4013-4e45-a074-746b7717fc13)
 
 ### DOWN COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/dd777a04-34f2-4ddd-98ff-5a15aacff8fa)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/ef90741f-8890-46ae-8909-4a62b99315da)
 
 ### TIMING DIGRAMS FOR COUNTER  
 ### UP COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/b7ec884c-af2d-42e5-bd06-64d5d582bbbf)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/55432dbf-cf6b-42f0-85ad-13f2d99e7a2d)
 
 ### DOWN COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/4baf7792-c9e9-4c2a-8520-d0aa87c6f429)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/30c8a06d-609d-409d-892c-bc9c5aa8c217)
 
 ### TRUTH TABLE 
 ### UP COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/f2809b22-18e9-4e17-a0df-23a5b63db646)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/1c85a199-833e-481c-8eea-43e4206a2216)
 
 ### DOWN COUNTER:
 
-![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/395abbf7-0135-45f3-8499-51594445dc35)
+![image](https://github.com/PreethiArunachalam/Exp-7-Synchornous-counters-/assets/120115840/5f7498ff-d258-4d25-9d6d-1fd58474ee7b)
 
 ### RESULTS 
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
